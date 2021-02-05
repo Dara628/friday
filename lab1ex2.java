@@ -8,7 +8,7 @@ public class lab1ex2{
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter the type of the first investment: ");
         ffund = input.nextLine();
-        System.out.print("Please enter the number of the shares purshaed: ");
+        System.out.print("Please enter the number of the shares purshaed: how far");
         fnumshar = input.nextInt();
         System.out.print("Please enter the share price: : ");
         fsharp = input.nextFloat();
